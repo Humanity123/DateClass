@@ -1,0 +1,888 @@
+===============================================================================
+Testing Date Format First Constructor true statements will be printed
+
+DateFormat type constructed with type						NULL	NULL	NULL
+DateFormat type constructed with type						NULL	NULL	yy
+DateFormat type constructed with type						NULL	NULL	yyyy
+***ERROR  invalid_argument- Invalid argument type with type NULL	NULL	as
+***ERROR  invalid_argument- Invalid argument type with type NULL	NULL	ayyy
+DateFormat type constructed with type						NULL	m	NULL
+DateFormat type constructed with type						NULL	m	yy
+DateFormat type constructed with type						NULL	m	yyyy
+***ERROR  invalid_argument- Invalid argument type with type NULL	m	as
+***ERROR  invalid_argument- Invalid argument type with type NULL	m	ayyy
+DateFormat type constructed with type						NULL	mm	NULL
+DateFormat type constructed with type						NULL	mm	yy
+DateFormat type constructed with type						NULL	mm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type NULL	mm	as
+***ERROR  invalid_argument- Invalid argument type with type NULL	mm	ayyy
+DateFormat type constructed with type						NULL	mmm	NULL
+DateFormat type constructed with type						NULL	mmm	yy
+DateFormat type constructed with type						NULL	mmm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type NULL	mmm	as
+***ERROR  invalid_argument- Invalid argument type with type NULL	mmm	ayyy
+***ERROR  invalid_argument- Invalid argument type with type NULL	ad	NULL
+***ERROR  invalid_argument- Invalid argument type with type NULL	ad	yy
+***ERROR  invalid_argument- Invalid argument type with type NULL	ad	yyyy
+***ERROR  invalid_argument- Invalid argument type with type NULL	ad	as
+***ERROR  invalid_argument- Invalid argument type with type NULL	ad	ayyy
+***ERROR  invalid_argument- Invalid argument type with type NULL	amm	NULL
+***ERROR  invalid_argument- Invalid argument type with type NULL	amm	yy
+***ERROR  invalid_argument- Invalid argument type with type NULL	amm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type NULL	amm	as
+***ERROR  invalid_argument- Invalid argument type with type NULL	amm	ayyy
+DateFormat type constructed with type						d	NULL	NULL
+DateFormat type constructed with type						d	NULL	yy
+DateFormat type constructed with type						d	NULL	yyyy
+***ERROR  invalid_argument- Invalid argument type with type d	NULL	as
+***ERROR  invalid_argument- Invalid argument type with type d	NULL	ayyy
+DateFormat type constructed with type						d	m	NULL
+DateFormat type constructed with type						d	m	yy
+DateFormat type constructed with type						d	m	yyyy
+***ERROR  invalid_argument- Invalid argument type with type d	m	as
+***ERROR  invalid_argument- Invalid argument type with type d	m	ayyy
+DateFormat type constructed with type						d	mm	NULL
+DateFormat type constructed with type						d	mm	yy
+DateFormat type constructed with type						d	mm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type d	mm	as
+***ERROR  invalid_argument- Invalid argument type with type d	mm	ayyy
+DateFormat type constructed with type						d	mmm	NULL
+DateFormat type constructed with type						d	mmm	yy
+DateFormat type constructed with type						d	mmm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type d	mmm	as
+***ERROR  invalid_argument- Invalid argument type with type d	mmm	ayyy
+***ERROR  invalid_argument- Invalid argument type with type d	ad	NULL
+***ERROR  invalid_argument- Invalid argument type with type d	ad	yy
+***ERROR  invalid_argument- Invalid argument type with type d	ad	yyyy
+***ERROR  invalid_argument- Invalid argument type with type d	ad	as
+***ERROR  invalid_argument- Invalid argument type with type d	ad	ayyy
+***ERROR  invalid_argument- Invalid argument type with type d	amm	NULL
+***ERROR  invalid_argument- Invalid argument type with type d	amm	yy
+***ERROR  invalid_argument- Invalid argument type with type d	amm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type d	amm	as
+***ERROR  invalid_argument- Invalid argument type with type d	amm	ayyy
+DateFormat type constructed with type						dd	NULL	NULL
+DateFormat type constructed with type						dd	NULL	yy
+DateFormat type constructed with type						dd	NULL	yyyy
+***ERROR  invalid_argument- Invalid argument type with type dd	NULL	as
+***ERROR  invalid_argument- Invalid argument type with type dd	NULL	ayyy
+DateFormat type constructed with type						dd	m	NULL
+DateFormat type constructed with type						dd	m	yy
+DateFormat type constructed with type						dd	m	yyyy
+***ERROR  invalid_argument- Invalid argument type with type dd	m	as
+***ERROR  invalid_argument- Invalid argument type with type dd	m	ayyy
+DateFormat type constructed with type						dd	mm	NULL
+DateFormat type constructed with type						dd	mm	yy
+DateFormat type constructed with type						dd	mm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type dd	mm	as
+***ERROR  invalid_argument- Invalid argument type with type dd	mm	ayyy
+DateFormat type constructed with type						dd	mmm	NULL
+DateFormat type constructed with type						dd	mmm	yy
+DateFormat type constructed with type						dd	mmm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type dd	mmm	as
+***ERROR  invalid_argument- Invalid argument type with type dd	mmm	ayyy
+***ERROR  invalid_argument- Invalid argument type with type dd	ad	NULL
+***ERROR  invalid_argument- Invalid argument type with type dd	ad	yy
+***ERROR  invalid_argument- Invalid argument type with type dd	ad	yyyy
+***ERROR  invalid_argument- Invalid argument type with type dd	ad	as
+***ERROR  invalid_argument- Invalid argument type with type dd	ad	ayyy
+***ERROR  invalid_argument- Invalid argument type with type dd	amm	NULL
+***ERROR  invalid_argument- Invalid argument type with type dd	amm	yy
+***ERROR  invalid_argument- Invalid argument type with type dd	amm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type dd	amm	as
+***ERROR  invalid_argument- Invalid argument type with type dd	amm	ayyy
+***ERROR  invalid_argument- Invalid argument type with type abd	NULL	NULL
+***ERROR  invalid_argument- Invalid argument type with type abd	NULL	yy
+***ERROR  invalid_argument- Invalid argument type with type abd	NULL	yyyy
+***ERROR  invalid_argument- Invalid argument type with type abd	NULL	as
+***ERROR  invalid_argument- Invalid argument type with type abd	NULL	ayyy
+***ERROR  invalid_argument- Invalid argument type with type abd	m	NULL
+***ERROR  invalid_argument- Invalid argument type with type abd	m	yy
+***ERROR  invalid_argument- Invalid argument type with type abd	m	yyyy
+***ERROR  invalid_argument- Invalid argument type with type abd	m	as
+***ERROR  invalid_argument- Invalid argument type with type abd	m	ayyy
+***ERROR  invalid_argument- Invalid argument type with type abd	mm	NULL
+***ERROR  invalid_argument- Invalid argument type with type abd	mm	yy
+***ERROR  invalid_argument- Invalid argument type with type abd	mm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type abd	mm	as
+***ERROR  invalid_argument- Invalid argument type with type abd	mm	ayyy
+***ERROR  invalid_argument- Invalid argument type with type abd	mmm	NULL
+***ERROR  invalid_argument- Invalid argument type with type abd	mmm	yy
+***ERROR  invalid_argument- Invalid argument type with type abd	mmm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type abd	mmm	as
+***ERROR  invalid_argument- Invalid argument type with type abd	mmm	ayyy
+***ERROR  invalid_argument- Invalid argument type with type abd	ad	NULL
+***ERROR  invalid_argument- Invalid argument type with type abd	ad	yy
+***ERROR  invalid_argument- Invalid argument type with type abd	ad	yyyy
+***ERROR  invalid_argument- Invalid argument type with type abd	ad	as
+***ERROR  invalid_argument- Invalid argument type with type abd	ad	ayyy
+***ERROR  invalid_argument- Invalid argument type with type abd	amm	NULL
+***ERROR  invalid_argument- Invalid argument type with type abd	amm	yy
+***ERROR  invalid_argument- Invalid argument type with type abd	amm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type abd	amm	as
+***ERROR  invalid_argument- Invalid argument type with type abd	amm	ayyy
+***ERROR  invalid_argument- Invalid argument type with type de	NULL	NULL
+***ERROR  invalid_argument- Invalid argument type with type de	NULL	yy
+***ERROR  invalid_argument- Invalid argument type with type de	NULL	yyyy
+***ERROR  invalid_argument- Invalid argument type with type de	NULL	as
+***ERROR  invalid_argument- Invalid argument type with type de	NULL	ayyy
+***ERROR  invalid_argument- Invalid argument type with type de	m	NULL
+***ERROR  invalid_argument- Invalid argument type with type de	m	yy
+***ERROR  invalid_argument- Invalid argument type with type de	m	yyyy
+***ERROR  invalid_argument- Invalid argument type with type de	m	as
+***ERROR  invalid_argument- Invalid argument type with type de	m	ayyy
+***ERROR  invalid_argument- Invalid argument type with type de	mm	NULL
+***ERROR  invalid_argument- Invalid argument type with type de	mm	yy
+***ERROR  invalid_argument- Invalid argument type with type de	mm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type de	mm	as
+***ERROR  invalid_argument- Invalid argument type with type de	mm	ayyy
+***ERROR  invalid_argument- Invalid argument type with type de	mmm	NULL
+***ERROR  invalid_argument- Invalid argument type with type de	mmm	yy
+***ERROR  invalid_argument- Invalid argument type with type de	mmm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type de	mmm	as
+***ERROR  invalid_argument- Invalid argument type with type de	mmm	ayyy
+***ERROR  invalid_argument- Invalid argument type with type de	ad	NULL
+***ERROR  invalid_argument- Invalid argument type with type de	ad	yy
+***ERROR  invalid_argument- Invalid argument type with type de	ad	yyyy
+***ERROR  invalid_argument- Invalid argument type with type de	ad	as
+***ERROR  invalid_argument- Invalid argument type with type de	ad	ayyy
+***ERROR  invalid_argument- Invalid argument type with type de	amm	NULL
+***ERROR  invalid_argument- Invalid argument type with type de	amm	yy
+***ERROR  invalid_argument- Invalid argument type with type de	amm	yyyy
+***ERROR  invalid_argument- Invalid argument type with type de	amm	as
+***ERROR  invalid_argument- Invalid argument type with type de	amm	ayyy
+
+========================================================================
+Testing Date Format Second Constructor true statements will be printed
+
+DateFormat type constructed with type							--
+DateFormat type constructed with type							--yy
+DateFormat type constructed with type							--yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	--as
+***ERROR   invalid_argument- Invalid argument type	with type	--ayyy
+DateFormat type constructed with type							-m-
+DateFormat type constructed with type							-m-yy
+DateFormat type constructed with type							-m-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	-m-as
+***ERROR   invalid_argument- Invalid argument type	with type	-m-ayyy
+DateFormat type constructed with type							-mm-
+DateFormat type constructed with type							-mm-yy
+DateFormat type constructed with type							-mm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	-mm-as
+***ERROR   invalid_argument- Invalid argument type	with type	-mm-ayyy
+DateFormat type constructed with type							-mmm-
+DateFormat type constructed with type							-mmm-yy
+DateFormat type constructed with type							-mmm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	-mmm-as
+***ERROR   invalid_argument- Invalid argument type	with type	-mmm-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	-ad-
+***ERROR   invalid_argument- Invalid argument type	with type	-ad-yy
+***ERROR   invalid_argument- Invalid argument type	with type	-ad-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	-ad-as
+***ERROR   invalid_argument- Invalid argument type	with type	-ad-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	---
+***ERROR   invalid_argument- Invalid argument type	with type	---yy
+***ERROR   invalid_argument- Invalid argument type	with type	---yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	---as
+***ERROR   invalid_argument- Invalid argument type	with type	---ayyy
+DateFormat type constructed with type							d--
+DateFormat type constructed with type							d--yy
+DateFormat type constructed with type							d--yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	d--as
+***ERROR   invalid_argument- Invalid argument type	with type	d--ayyy
+DateFormat type constructed with type							d-m-
+DateFormat type constructed with type							d-m-yy
+DateFormat type constructed with type							d-m-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	d-m-as
+***ERROR   invalid_argument- Invalid argument type	with type	d-m-ayyy
+DateFormat type constructed with type							d-mm-
+DateFormat type constructed with type							d-mm-yy
+DateFormat type constructed with type							d-mm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	d-mm-as
+***ERROR   invalid_argument- Invalid argument type	with type	d-mm-ayyy
+DateFormat type constructed with type							d-mmm-
+DateFormat type constructed with type							d-mmm-yy
+DateFormat type constructed with type							d-mmm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	d-mmm-as
+***ERROR   invalid_argument- Invalid argument type	with type	d-mmm-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	d-ad-
+***ERROR   invalid_argument- Invalid argument type	with type	d-ad-yy
+***ERROR   invalid_argument- Invalid argument type	with type	d-ad-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	d-ad-as
+***ERROR   invalid_argument- Invalid argument type	with type	d-ad-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	d---
+***ERROR   invalid_argument- Invalid argument type	with type	d---yy
+***ERROR   invalid_argument- Invalid argument type	with type	d---yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	d---as
+***ERROR   invalid_argument- Invalid argument type	with type	d---ayyy
+DateFormat type constructed with type							dd--
+DateFormat type constructed with type							dd--yy
+DateFormat type constructed with type							dd--yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dd--as
+***ERROR   invalid_argument- Invalid argument type	with type	dd--ayyy
+DateFormat type constructed with type							dd-m-
+DateFormat type constructed with type							dd-m-yy
+DateFormat type constructed with type							dd-m-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dd-m-as
+***ERROR   invalid_argument- Invalid argument type	with type	dd-m-ayyy
+DateFormat type constructed with type							dd-mm-
+DateFormat type constructed with type							dd-mm-yy
+DateFormat type constructed with type							dd-mm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dd-mm-as
+***ERROR   invalid_argument- Invalid argument type	with type	dd-mm-ayyy
+DateFormat type constructed with type							dd-mmm-
+DateFormat type constructed with type							dd-mmm-yy
+DateFormat type constructed with type							dd-mmm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dd-mmm-as
+***ERROR   invalid_argument- Invalid argument type	with type	dd-mmm-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	dd-ad-
+***ERROR   invalid_argument- Invalid argument type	with type	dd-ad-yy
+***ERROR   invalid_argument- Invalid argument type	with type	dd-ad-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dd-ad-as
+***ERROR   invalid_argument- Invalid argument type	with type	dd-ad-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	dd---
+***ERROR   invalid_argument- Invalid argument type	with type	dd---yy
+***ERROR   invalid_argument- Invalid argument type	with type	dd---yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dd---as
+***ERROR   invalid_argument- Invalid argument type	with type	dd---ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	d-
+***ERROR   invalid_argument- Invalid argument type	with type	d-yy
+***ERROR   invalid_argument- Invalid argument type	with type	d-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	d-as
+***ERROR   invalid_argument- Invalid argument type	with type	d-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	dm-
+***ERROR   invalid_argument- Invalid argument type	with type	dm-yy
+***ERROR   invalid_argument- Invalid argument type	with type	dm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dm-as
+***ERROR   invalid_argument- Invalid argument type	with type	dm-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	dmm-
+***ERROR   invalid_argument- Invalid argument type	with type	dmm-yy
+***ERROR   invalid_argument- Invalid argument type	with type	dmm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dmm-as
+***ERROR   invalid_argument- Invalid argument type	with type	dmm-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	dmmm-
+***ERROR   invalid_argument- Invalid argument type	with type	dmmm-yy
+***ERROR   invalid_argument- Invalid argument type	with type	dmmm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dmmm-as
+***ERROR   invalid_argument- Invalid argument type	with type	dmmm-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	dad-
+***ERROR   invalid_argument- Invalid argument type	with type	dad-yy
+***ERROR   invalid_argument- Invalid argument type	with type	dad-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dad-as
+***ERROR   invalid_argument- Invalid argument type	with type	dad-ayyy
+DateFormat type constructed with type							d--
+DateFormat type constructed with type							d--yy
+DateFormat type constructed with type							d--yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	d--as
+***ERROR   invalid_argument- Invalid argument type	with type	d--ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd--
+***ERROR   invalid_argument- Invalid argument type	with type	abd--yy
+***ERROR   invalid_argument- Invalid argument type	with type	abd--yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd--as
+***ERROR   invalid_argument- Invalid argument type	with type	abd--ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-m-
+***ERROR   invalid_argument- Invalid argument type	with type	abd-m-yy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-m-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-m-as
+***ERROR   invalid_argument- Invalid argument type	with type	abd-m-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-mm-
+***ERROR   invalid_argument- Invalid argument type	with type	abd-mm-yy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-mm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-mm-as
+***ERROR   invalid_argument- Invalid argument type	with type	abd-mm-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-mmm-
+***ERROR   invalid_argument- Invalid argument type	with type	abd-mmm-yy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-mmm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-mmm-as
+***ERROR   invalid_argument- Invalid argument type	with type	abd-mmm-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-ad-
+***ERROR   invalid_argument- Invalid argument type	with type	abd-ad-yy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-ad-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd-ad-as
+***ERROR   invalid_argument- Invalid argument type	with type	abd-ad-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd---
+***ERROR   invalid_argument- Invalid argument type	with type	abd---yy
+***ERROR   invalid_argument- Invalid argument type	with type	abd---yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	abd---as
+***ERROR   invalid_argument- Invalid argument type	with type	abd---ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	de-
+***ERROR   invalid_argument- Invalid argument type	with type	de-yy
+***ERROR   invalid_argument- Invalid argument type	with type	de-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	de-as
+***ERROR   invalid_argument- Invalid argument type	with type	de-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	dem-
+***ERROR   invalid_argument- Invalid argument type	with type	dem-yy
+***ERROR   invalid_argument- Invalid argument type	with type	dem-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dem-as
+***ERROR   invalid_argument- Invalid argument type	with type	dem-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	demm-
+***ERROR   invalid_argument- Invalid argument type	with type	demm-yy
+***ERROR   invalid_argument- Invalid argument type	with type	demm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	demm-as
+***ERROR   invalid_argument- Invalid argument type	with type	demm-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	demmm-
+***ERROR   invalid_argument- Invalid argument type	with type	demmm-yy
+***ERROR   invalid_argument- Invalid argument type	with type	demmm-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	demmm-as
+***ERROR   invalid_argument- Invalid argument type	with type	demmm-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	dead-
+***ERROR   invalid_argument- Invalid argument type	with type	dead-yy
+***ERROR   invalid_argument- Invalid argument type	with type	dead-yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	dead-as
+***ERROR   invalid_argument- Invalid argument type	with type	dead-ayyy
+***ERROR   invalid_argument- Invalid argument type	with type	de--
+***ERROR   invalid_argument- Invalid argument type	with type	de--yy
+***ERROR   invalid_argument- Invalid argument type	with type	de--yyyy
+***ERROR   invalid_argument- Invalid argument type	with type	de--as
+***ERROR   invalid_argument- Invalid argument type	with type	de--ayyy
+
+========================================================================
+Testing Date Format Default Constructor true statements will be printed
+
+06-Mar-16
+DateFormat default constructed
+
+===============================================================================
+Testing Date  First Constructor(Day,Month,Year) true statements will be printed
+
+***ERROR out_of_range-     Date Not in Range:1-1-1949 with 		day- 1	month- 1	year- 1949
+Date type constructed with 										day- 1	month- 1	year- 1950
+Date type constructed with 										day- 1	month- 1	year- 2000
+Date type constructed with 										day- 1	month- 1	year- 2049
+***ERROR out_of_range-     Date Not in Range:1-1-2050 with 		day- 1	month- 1	year- 2050
+***ERROR out_of_range-     Date Not in Range:1-2-1949 with 		day- 1	month- 2	year- 1949
+Date type constructed with 										day- 1	month- 2	year- 1950
+Date type constructed with 										day- 1	month- 2	year- 2000
+Date type constructed with 										day- 1	month- 2	year- 2049
+***ERROR out_of_range-     Date Not in Range:1-2-2050 with 		day- 1	month- 2	year- 2050
+***ERROR out_of_range-     Date Not in Range:1-7-1949 with 		day- 1	month- 7	year- 1949
+Date type constructed with 										day- 1	month- 7	year- 1950
+Date type constructed with 										day- 1	month- 7	year- 2000
+Date type constructed with 										day- 1	month- 7	year- 2049
+***ERROR out_of_range-     Date Not in Range:1-7-2050 with 		day- 1	month- 7	year- 2050
+***ERROR out_of_range-     Date Not in Range:1-8-1949 with 		day- 1	month- 8	year- 1949
+Date type constructed with 										day- 1	month- 8	year- 1950
+Date type constructed with 										day- 1	month- 8	year- 2000
+Date type constructed with 										day- 1	month- 8	year- 2049
+***ERROR out_of_range-     Date Not in Range:1-8-2050 with 		day- 1	month- 8	year- 2050
+***ERROR out_of_range-     Date Not in Range:1-11-1949 with 		day- 1	month- 11	year- 1949
+Date type constructed with 										day- 1	month- 11	year- 1950
+Date type constructed with 										day- 1	month- 11	year- 2000
+Date type constructed with 										day- 1	month- 11	year- 2049
+***ERROR out_of_range-     Date Not in Range:1-11-2050 with 		day- 1	month- 11	year- 2050
+***ERROR out_of_range-     Date Not in Range:15-1-1949 with 		day- 15	month- 1	year- 1949
+Date type constructed with 										day- 15	month- 1	year- 1950
+Date type constructed with 										day- 15	month- 1	year- 2000
+Date type constructed with 										day- 15	month- 1	year- 2049
+***ERROR out_of_range-     Date Not in Range:15-1-2050 with 		day- 15	month- 1	year- 2050
+***ERROR out_of_range-     Date Not in Range:15-2-1949 with 		day- 15	month- 2	year- 1949
+Date type constructed with 										day- 15	month- 2	year- 1950
+Date type constructed with 										day- 15	month- 2	year- 2000
+Date type constructed with 										day- 15	month- 2	year- 2049
+***ERROR out_of_range-     Date Not in Range:15-2-2050 with 		day- 15	month- 2	year- 2050
+***ERROR out_of_range-     Date Not in Range:15-7-1949 with 		day- 15	month- 7	year- 1949
+Date type constructed with 										day- 15	month- 7	year- 1950
+Date type constructed with 										day- 15	month- 7	year- 2000
+Date type constructed with 										day- 15	month- 7	year- 2049
+***ERROR out_of_range-     Date Not in Range:15-7-2050 with 		day- 15	month- 7	year- 2050
+***ERROR out_of_range-     Date Not in Range:15-8-1949 with 		day- 15	month- 8	year- 1949
+Date type constructed with 										day- 15	month- 8	year- 1950
+Date type constructed with 										day- 15	month- 8	year- 2000
+Date type constructed with 										day- 15	month- 8	year- 2049
+***ERROR out_of_range-     Date Not in Range:15-8-2050 with 		day- 15	month- 8	year- 2050
+***ERROR out_of_range-     Date Not in Range:15-11-1949 with 		day- 15	month- 11	year- 1949
+Date type constructed with 										day- 15	month- 11	year- 1950
+Date type constructed with 										day- 15	month- 11	year- 2000
+Date type constructed with 										day- 15	month- 11	year- 2049
+***ERROR out_of_range-     Date Not in Range:15-11-2050 with 		day- 15	month- 11	year- 2050
+***ERROR out_of_range-     Date Not in Range:28-1-1949 with 		day- 28	month- 1	year- 1949
+Date type constructed with 										day- 28	month- 1	year- 1950
+Date type constructed with 										day- 28	month- 1	year- 2000
+Date type constructed with 										day- 28	month- 1	year- 2049
+***ERROR out_of_range-     Date Not in Range:28-1-2050 with 		day- 28	month- 1	year- 2050
+***ERROR out_of_range-     Date Not in Range:28-2-1949 with 		day- 28	month- 2	year- 1949
+Date type constructed with 										day- 28	month- 2	year- 1950
+Date type constructed with 										day- 28	month- 2	year- 2000
+Date type constructed with 										day- 28	month- 2	year- 2049
+***ERROR out_of_range-     Date Not in Range:28-2-2050 with 		day- 28	month- 2	year- 2050
+***ERROR out_of_range-     Date Not in Range:28-7-1949 with 		day- 28	month- 7	year- 1949
+Date type constructed with 										day- 28	month- 7	year- 1950
+Date type constructed with 										day- 28	month- 7	year- 2000
+Date type constructed with 										day- 28	month- 7	year- 2049
+***ERROR out_of_range-     Date Not in Range:28-7-2050 with 		day- 28	month- 7	year- 2050
+***ERROR out_of_range-     Date Not in Range:28-8-1949 with 		day- 28	month- 8	year- 1949
+Date type constructed with 										day- 28	month- 8	year- 1950
+Date type constructed with 										day- 28	month- 8	year- 2000
+Date type constructed with 										day- 28	month- 8	year- 2049
+***ERROR out_of_range-     Date Not in Range:28-8-2050 with 		day- 28	month- 8	year- 2050
+***ERROR out_of_range-     Date Not in Range:28-11-1949 with 		day- 28	month- 11	year- 1949
+Date type constructed with 										day- 28	month- 11	year- 1950
+Date type constructed with 										day- 28	month- 11	year- 2000
+Date type constructed with 										day- 28	month- 11	year- 2049
+***ERROR out_of_range-     Date Not in Range:28-11-2050 with 		day- 28	month- 11	year- 2050
+***ERROR out_of_range-     Date Not in Range:29-1-1949 with 		day- 29	month- 1	year- 1949
+Date type constructed with 										day- 29	month- 1	year- 1950
+Date type constructed with 										day- 29	month- 1	year- 2000
+Date type constructed with 										day- 29	month- 1	year- 2049
+***ERROR out_of_range-     Date Not in Range:29-1-2050 with 		day- 29	month- 1	year- 2050
+***ERROR domain_error-     Not a Valid Date:29-2-1949 with 		day- 29	month- 2	year- 1949
+***ERROR domain_error-     Not a Valid Date:29-2-1950 with 		day- 29	month- 2	year- 1950
+Date type constructed with 										day- 29	month- 2	year- 2000
+***ERROR domain_error-     Not a Valid Date:29-2-2049 with 		day- 29	month- 2	year- 2049
+***ERROR domain_error-     Not a Valid Date:29-2-2050 with 		day- 29	month- 2	year- 2050
+***ERROR out_of_range-     Date Not in Range:29-7-1949 with 		day- 29	month- 7	year- 1949
+Date type constructed with 										day- 29	month- 7	year- 1950
+Date type constructed with 										day- 29	month- 7	year- 2000
+Date type constructed with 										day- 29	month- 7	year- 2049
+***ERROR out_of_range-     Date Not in Range:29-7-2050 with 		day- 29	month- 7	year- 2050
+***ERROR out_of_range-     Date Not in Range:29-8-1949 with 		day- 29	month- 8	year- 1949
+Date type constructed with 										day- 29	month- 8	year- 1950
+Date type constructed with 										day- 29	month- 8	year- 2000
+Date type constructed with 										day- 29	month- 8	year- 2049
+***ERROR out_of_range-     Date Not in Range:29-8-2050 with 		day- 29	month- 8	year- 2050
+***ERROR out_of_range-     Date Not in Range:29-11-1949 with 		day- 29	month- 11	year- 1949
+Date type constructed with 										day- 29	month- 11	year- 1950
+Date type constructed with 										day- 29	month- 11	year- 2000
+Date type constructed with 										day- 29	month- 11	year- 2049
+***ERROR out_of_range-     Date Not in Range:29-11-2050 with 		day- 29	month- 11	year- 2050
+***ERROR out_of_range-     Date Not in Range:30-1-1949 with 		day- 30	month- 1	year- 1949
+Date type constructed with 										day- 30	month- 1	year- 1950
+Date type constructed with 										day- 30	month- 1	year- 2000
+Date type constructed with 										day- 30	month- 1	year- 2049
+***ERROR out_of_range-     Date Not in Range:30-1-2050 with 		day- 30	month- 1	year- 2050
+***ERROR domain_error-     Not a Valid Date:30-2-1949 with 		day- 30	month- 2	year- 1949
+***ERROR domain_error-     Not a Valid Date:30-2-1950 with 		day- 30	month- 2	year- 1950
+***ERROR domain_error-     Not a Valid Date:30-2-2000 with 		day- 30	month- 2	year- 2000
+***ERROR domain_error-     Not a Valid Date:30-2-2049 with 		day- 30	month- 2	year- 2049
+***ERROR domain_error-     Not a Valid Date:30-2-2050 with 		day- 30	month- 2	year- 2050
+***ERROR out_of_range-     Date Not in Range:30-7-1949 with 		day- 30	month- 7	year- 1949
+Date type constructed with 										day- 30	month- 7	year- 1950
+Date type constructed with 										day- 30	month- 7	year- 2000
+Date type constructed with 										day- 30	month- 7	year- 2049
+***ERROR out_of_range-     Date Not in Range:30-7-2050 with 		day- 30	month- 7	year- 2050
+***ERROR out_of_range-     Date Not in Range:30-8-1949 with 		day- 30	month- 8	year- 1949
+Date type constructed with 										day- 30	month- 8	year- 1950
+Date type constructed with 										day- 30	month- 8	year- 2000
+Date type constructed with 										day- 30	month- 8	year- 2049
+***ERROR out_of_range-     Date Not in Range:30-8-2050 with 		day- 30	month- 8	year- 2050
+***ERROR out_of_range-     Date Not in Range:30-11-1949 with 		day- 30	month- 11	year- 1949
+Date type constructed with 										day- 30	month- 11	year- 1950
+Date type constructed with 										day- 30	month- 11	year- 2000
+Date type constructed with 										day- 30	month- 11	year- 2049
+***ERROR out_of_range-     Date Not in Range:30-11-2050 with 		day- 30	month- 11	year- 2050
+***ERROR out_of_range-     Date Not in Range:31-1-1949 with 		day- 31	month- 1	year- 1949
+Date type constructed with 										day- 31	month- 1	year- 1950
+Date type constructed with 										day- 31	month- 1	year- 2000
+Date type constructed with 										day- 31	month- 1	year- 2049
+***ERROR out_of_range-     Date Not in Range:31-1-2050 with 		day- 31	month- 1	year- 2050
+***ERROR domain_error-     Not a Valid Date:31-2-1949 with 		day- 31	month- 2	year- 1949
+***ERROR domain_error-     Not a Valid Date:31-2-1950 with 		day- 31	month- 2	year- 1950
+***ERROR domain_error-     Not a Valid Date:31-2-2000 with 		day- 31	month- 2	year- 2000
+***ERROR domain_error-     Not a Valid Date:31-2-2049 with 		day- 31	month- 2	year- 2049
+***ERROR domain_error-     Not a Valid Date:31-2-2050 with 		day- 31	month- 2	year- 2050
+***ERROR out_of_range-     Date Not in Range:31-7-1949 with 		day- 31	month- 7	year- 1949
+Date type constructed with 										day- 31	month- 7	year- 1950
+Date type constructed with 										day- 31	month- 7	year- 2000
+Date type constructed with 										day- 31	month- 7	year- 2049
+***ERROR out_of_range-     Date Not in Range:31-7-2050 with 		day- 31	month- 7	year- 2050
+***ERROR out_of_range-     Date Not in Range:31-8-1949 with 		day- 31	month- 8	year- 1949
+Date type constructed with 										day- 31	month- 8	year- 1950
+Date type constructed with 										day- 31	month- 8	year- 2000
+Date type constructed with 										day- 31	month- 8	year- 2049
+***ERROR out_of_range-     Date Not in Range:31-8-2050 with 		day- 31	month- 8	year- 2050
+***ERROR domain_error-     Not a Valid Date:31-11-1949 with 		day- 31	month- 11	year- 1949
+***ERROR domain_error-     Not a Valid Date:31-11-1950 with 		day- 31	month- 11	year- 1950
+***ERROR domain_error-     Not a Valid Date:31-11-2000 with 		day- 31	month- 11	year- 2000
+***ERROR domain_error-     Not a Valid Date:31-11-2049 with 		day- 31	month- 11	year- 2049
+***ERROR domain_error-     Not a Valid Date:31-11-2050 with 		day- 31	month- 11	year- 2050
+
+===============================================================================
+Testing Format not meant for input true statements will be printed
+
+***ERROR invalid_argument- Invalid Date Format For Input
+***ERROR invalid_argument- Invalid Date Format For Input
+***ERROR invalid_argument- Invalid Date Format For Input
+***ERROR invalid_argument- Invalid Date Format For Input
+***ERROR invalid_argument- Invalid Date Format For Input
+***ERROR invalid_argument- Invalid Date Format For Input
+***ERROR invalid_argument- Invalid Date Format For Input
+***ERROR invalid_argument- Invalid Date Format For Input
+
+===========================================================================================================
+Testing Date  Second Constructor(const char *) with input format dd-mm-yyyy true statements will be printed
+
+***ERROR out_of_range     -Date not in Range   		date value-	1-1-1949
+***ERROR out_of_range     -Date not in Range   		date value-	1-1-99
+Date Constructed with type d-mm-yyyy				date value-1-1-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	1-1-a016
+Date Constructed with type d-mm-yyyy				date value-1-1-2049
+***ERROR out_of_range     -Date not in Range   		date value-	1-1-2050
+***ERROR invalid_argument -Invalid C-String 		date value-	1-21949
+***ERROR invalid_argument -Invalid C-String 		date value-	1-299
+***ERROR invalid_argument -Invalid C-String 		date value-	1-21950
+***ERROR invalid_argument -Invalid C-String 		date value-	1-2a016
+***ERROR invalid_argument -Invalid C-String 		date value-	1-22049
+***ERROR invalid_argument -Invalid C-String 		date value-	1-22050
+***ERROR out_of_range     -Date not in Range   		date value-	1-01-1949
+***ERROR out_of_range     -Date not in Range   		date value-	1-01-99
+Date Constructed with type d-mm-yyyy				date value-1-01-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	1-01-a016
+Date Constructed with type d-mm-yyyy				date value-1-01-2049
+***ERROR out_of_range     -Date not in Range   		date value-	1-01-2050
+***ERROR out_of_range     -Date not in Range   		date value-	1-12-1949
+***ERROR out_of_range     -Date not in Range   		date value-	1-12-99
+Date Constructed with type d-mm-yyyy				date value-1-12-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	1-12-a016
+Date Constructed with type d-mm-yyyy				date value-1-12-2049
+***ERROR out_of_range     -Date not in Range   		date value-	1-12-2050
+***ERROR invalid_argument -Invalid Month Input 		date value-	1-13-1949
+***ERROR invalid_argument -Invalid Month Input 		date value-	1-13-99
+***ERROR invalid_argument -Invalid Month Input 		date value-	1-13-1950
+***ERROR invalid_argument -Invalid Month Input 		date value-	1-13-a016
+***ERROR invalid_argument -Invalid Month Input 		date value-	1-13-2049
+***ERROR invalid_argument -Invalid Month Input 		date value-	1-13-2050
+***ERROR invalid_argument -Invalid C-String 		date value-	11-1949
+***ERROR invalid_argument -Invalid C-String 		date value-	11-99
+***ERROR invalid_argument -Invalid C-String 		date value-	11-1950
+***ERROR invalid_argument -Invalid C-String 		date value-	11-a016
+***ERROR invalid_argument -Invalid C-String 		date value-	11-2049
+***ERROR invalid_argument -Invalid C-String 		date value-	11-2050
+***ERROR invalid_argument -Invalid C-String 		date value-	121949
+***ERROR invalid_argument -Invalid C-String 		date value-	1299
+***ERROR invalid_argument -Invalid C-String 		date value-	121950
+***ERROR invalid_argument -Invalid C-String 		date value-	12a016
+***ERROR invalid_argument -Invalid C-String 		date value-	122049
+***ERROR invalid_argument -Invalid C-String 		date value-	122050
+***ERROR invalid_argument -Invalid C-String 		date value-	101-1949
+***ERROR invalid_argument -Invalid C-String 		date value-	101-99
+***ERROR invalid_argument -Invalid C-String 		date value-	101-1950
+***ERROR invalid_argument -Invalid C-String 		date value-	101-a016
+***ERROR invalid_argument -Invalid C-String 		date value-	101-2049
+***ERROR invalid_argument -Invalid C-String 		date value-	101-2050
+***ERROR invalid_argument -Invalid C-String 		date value-	112-1949
+***ERROR invalid_argument -Invalid C-String 		date value-	112-99
+***ERROR invalid_argument -Invalid C-String 		date value-	112-1950
+***ERROR invalid_argument -Invalid C-String 		date value-	112-a016
+***ERROR invalid_argument -Invalid C-String 		date value-	112-2049
+***ERROR invalid_argument -Invalid C-String 		date value-	112-2050
+***ERROR invalid_argument -Invalid C-String 		date value-	113-1949
+***ERROR invalid_argument -Invalid C-String 		date value-	113-99
+***ERROR invalid_argument -Invalid C-String 		date value-	113-1950
+***ERROR invalid_argument -Invalid C-String 		date value-	113-a016
+***ERROR invalid_argument -Invalid C-String 		date value-	113-2049
+***ERROR invalid_argument -Invalid C-String 		date value-	113-2050
+***ERROR out_of_range     -Date not in Range   		date value-	28-1-1949
+***ERROR out_of_range     -Date not in Range   		date value-	28-1-99
+Date Constructed with type d-mm-yyyy				date value-28-1-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	28-1-a016
+Date Constructed with type d-mm-yyyy				date value-28-1-2049
+***ERROR out_of_range     -Date not in Range   		date value-	28-1-2050
+***ERROR invalid_argument -Invalid C-String 		date value-	28-21949
+***ERROR invalid_argument -Invalid C-String 		date value-	28-299
+***ERROR invalid_argument -Invalid C-String 		date value-	28-21950
+***ERROR invalid_argument -Invalid C-String 		date value-	28-2a016
+***ERROR invalid_argument -Invalid C-String 		date value-	28-22049
+***ERROR invalid_argument -Invalid C-String 		date value-	28-22050
+***ERROR out_of_range     -Date not in Range   		date value-	28-01-1949
+***ERROR out_of_range     -Date not in Range   		date value-	28-01-99
+Date Constructed with type d-mm-yyyy				date value-28-01-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	28-01-a016
+Date Constructed with type d-mm-yyyy				date value-28-01-2049
+***ERROR out_of_range     -Date not in Range   		date value-	28-01-2050
+***ERROR out_of_range     -Date not in Range   		date value-	28-12-1949
+***ERROR out_of_range     -Date not in Range   		date value-	28-12-99
+Date Constructed with type d-mm-yyyy				date value-28-12-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	28-12-a016
+Date Constructed with type d-mm-yyyy				date value-28-12-2049
+***ERROR out_of_range     -Date not in Range   		date value-	28-12-2050
+***ERROR invalid_argument -Invalid Month Input 		date value-	28-13-1949
+***ERROR invalid_argument -Invalid Month Input 		date value-	28-13-99
+***ERROR invalid_argument -Invalid Month Input 		date value-	28-13-1950
+***ERROR invalid_argument -Invalid Month Input 		date value-	28-13-a016
+***ERROR invalid_argument -Invalid Month Input 		date value-	28-13-2049
+***ERROR invalid_argument -Invalid Month Input 		date value-	28-13-2050
+***ERROR out_of_range     -Date not in Range   		date value-	29-1-1949
+***ERROR out_of_range     -Date not in Range   		date value-	29-1-99
+Date Constructed with type d-mm-yyyy				date value-29-1-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	29-1-a016
+Date Constructed with type d-mm-yyyy				date value-29-1-2049
+***ERROR out_of_range     -Date not in Range   		date value-	29-1-2050
+***ERROR invalid_argument -Invalid C-String 		date value-	29-21949
+***ERROR invalid_argument -Invalid C-String 		date value-	29-299
+***ERROR invalid_argument -Invalid C-String 		date value-	29-21950
+***ERROR invalid_argument -Invalid C-String 		date value-	29-2a016
+***ERROR invalid_argument -Invalid C-String 		date value-	29-22049
+***ERROR invalid_argument -Invalid C-String 		date value-	29-22050
+***ERROR out_of_range     -Date not in Range   		date value-	29-01-1949
+***ERROR out_of_range     -Date not in Range   		date value-	29-01-99
+Date Constructed with type d-mm-yyyy				date value-29-01-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	29-01-a016
+Date Constructed with type d-mm-yyyy				date value-29-01-2049
+***ERROR out_of_range     -Date not in Range   		date value-	29-01-2050
+***ERROR out_of_range     -Date not in Range   		date value-	29-12-1949
+***ERROR out_of_range     -Date not in Range   		date value-	29-12-99
+Date Constructed with type d-mm-yyyy				date value-29-12-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	29-12-a016
+Date Constructed with type d-mm-yyyy				date value-29-12-2049
+***ERROR out_of_range     -Date not in Range   		date value-	29-12-2050
+***ERROR invalid_argument -Invalid Month Input 		date value-	29-13-1949
+***ERROR invalid_argument -Invalid Month Input 		date value-	29-13-99
+***ERROR invalid_argument -Invalid Month Input 		date value-	29-13-1950
+***ERROR invalid_argument -Invalid Month Input 		date value-	29-13-a016
+***ERROR invalid_argument -Invalid Month Input 		date value-	29-13-2049
+***ERROR invalid_argument -Invalid Month Input 		date value-	29-13-2050
+***ERROR out_of_range     -Date not in Range   		date value-	30-1-1949
+***ERROR out_of_range     -Date not in Range   		date value-	30-1-99
+Date Constructed with type d-mm-yyyy				date value-30-1-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	30-1-a016
+Date Constructed with type d-mm-yyyy				date value-30-1-2049
+***ERROR out_of_range     -Date not in Range   		date value-	30-1-2050
+***ERROR invalid_argument -Invalid C-String 		date value-	30-21949
+***ERROR invalid_argument -Invalid C-String 		date value-	30-299
+***ERROR invalid_argument -Invalid C-String 		date value-	30-21950
+***ERROR invalid_argument -Invalid C-String 		date value-	30-2a016
+***ERROR invalid_argument -Invalid C-String 		date value-	30-22049
+***ERROR invalid_argument -Invalid C-String 		date value-	30-22050
+***ERROR out_of_range     -Date not in Range   		date value-	30-01-1949
+***ERROR out_of_range     -Date not in Range   		date value-	30-01-99
+Date Constructed with type d-mm-yyyy				date value-30-01-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	30-01-a016
+Date Constructed with type d-mm-yyyy				date value-30-01-2049
+***ERROR out_of_range     -Date not in Range   		date value-	30-01-2050
+***ERROR out_of_range     -Date not in Range   		date value-	30-12-1949
+***ERROR out_of_range     -Date not in Range   		date value-	30-12-99
+Date Constructed with type d-mm-yyyy				date value-30-12-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	30-12-a016
+Date Constructed with type d-mm-yyyy				date value-30-12-2049
+***ERROR out_of_range     -Date not in Range   		date value-	30-12-2050
+***ERROR invalid_argument -Invalid Month Input 		date value-	30-13-1949
+***ERROR invalid_argument -Invalid Month Input 		date value-	30-13-99
+***ERROR invalid_argument -Invalid Month Input 		date value-	30-13-1950
+***ERROR invalid_argument -Invalid Month Input 		date value-	30-13-a016
+***ERROR invalid_argument -Invalid Month Input 		date value-	30-13-2049
+***ERROR invalid_argument -Invalid Month Input 		date value-	30-13-2050
+***ERROR out_of_range     -Date not in Range   		date value-	31-1-1949
+***ERROR out_of_range     -Date not in Range   		date value-	31-1-99
+Date Constructed with type d-mm-yyyy				date value-31-1-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	31-1-a016
+Date Constructed with type d-mm-yyyy				date value-31-1-2049
+***ERROR out_of_range     -Date not in Range   		date value-	31-1-2050
+***ERROR invalid_argument -Invalid C-String 		date value-	31-21949
+***ERROR invalid_argument -Invalid C-String 		date value-	31-299
+***ERROR invalid_argument -Invalid C-String 		date value-	31-21950
+***ERROR invalid_argument -Invalid C-String 		date value-	31-2a016
+***ERROR invalid_argument -Invalid C-String 		date value-	31-22049
+***ERROR invalid_argument -Invalid C-String 		date value-	31-22050
+***ERROR out_of_range     -Date not in Range   		date value-	31-01-1949
+***ERROR out_of_range     -Date not in Range   		date value-	31-01-99
+Date Constructed with type d-mm-yyyy				date value-31-01-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	31-01-a016
+Date Constructed with type d-mm-yyyy				date value-31-01-2049
+***ERROR out_of_range     -Date not in Range   		date value-	31-01-2050
+***ERROR out_of_range     -Date not in Range   		date value-	31-12-1949
+***ERROR out_of_range     -Date not in Range   		date value-	31-12-99
+Date Constructed with type d-mm-yyyy				date value-31-12-1950
+***ERROR invalid_argument -Wrong Year Input Type 		date value-	31-12-a016
+Date Constructed with type d-mm-yyyy				date value-31-12-2049
+***ERROR out_of_range     -Date not in Range   		date value-	31-12-2050
+***ERROR invalid_argument -Invalid Month Input 		date value-	31-13-1949
+***ERROR invalid_argument -Invalid Month Input 		date value-	31-13-99
+***ERROR invalid_argument -Invalid Month Input 		date value-	31-13-1950
+***ERROR invalid_argument -Invalid Month Input 		date value-	31-13-a016
+***ERROR invalid_argument -Invalid Month Input 		date value-	31-13-2049
+***ERROR invalid_argument -Invalid Month Input 		date value-	31-13-2050
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-1-1949
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-1-99
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-1-1950
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-1-a016
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-1-2049
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-1-2050
+***ERROR invalid_argument -Invalid C-String 		date value-	32-21949
+***ERROR invalid_argument -Invalid C-String 		date value-	32-299
+***ERROR invalid_argument -Invalid C-String 		date value-	32-21950
+***ERROR invalid_argument -Invalid C-String 		date value-	32-2a016
+***ERROR invalid_argument -Invalid C-String 		date value-	32-22049
+***ERROR invalid_argument -Invalid C-String 		date value-	32-22050
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-01-1949
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-01-99
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-01-1950
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-01-a016
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-01-2049
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-01-2050
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-12-1949
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-12-99
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-12-1950
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-12-a016
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-12-2049
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-12-2050
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-13-1949
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-13-99
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-13-1950
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-13-a016
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-13-2049
+***ERROR invalid_argument -Invalid Day Input 		date value-	32-13-2050
+
+============================================================================================
+Testing Date Copy Constructor with output format dd-mm-yyyy true statements will be printed
+
+Using a date 29-02-1996 for copy
+The test date is 29-02-1996 the copy constructed date is 29-02-1996
+
+==============================================================================================
+Testing Date  Default Constructor with output format dd-mm-yyyy true statements will be printed
+
+Todays Date is (in format dd-mm-yyyy) 06-03-2016
+
+========================================================
+Testing Copy Assignment true statements will be printed
+
+27-07-2016 after being assigned  26-02-1955 is 26-02-1955
+
+===================================================================
+Testing Unary Arithmetic Operators true statements will be printed
+
+++01-01-1950 is 02-01-1950
+--01-01-1950 is ***ERROR out_of_range- The Result is Out Of Range
+01-01-1950++ is 01-01-1950
+01-01-1950-- is ***ERROR out_of_range- The Result is Out Of Range
+
+===================================================================
+Testing Unary Arithmetic Operators true statements will be printed
+
+++31-12-2049 is ***ERROR out_of_range- The Result is Out Of Range
+--31-12-2049 is 30-12-2049
+31-12-2049++ is ***ERROR out_of_range- The Result is Out Of Range
+31-12-2049-- is 31-12-2049
+
+===============================================================
+Testing Adding Number Of Days true statements will be printed
+
+03-01-1950 + 5 is 08-01-1950
+
+===============================================================
+Testing Adding Number Of Days true statements will be printed
+
+03-01-1950 + -5 is 
+***ERROR	out_of_range- The Result is Out Of Range
+
+===============================================================
+Testing Adding Number Of Days true statements will be printed
+
+27-07-2016 + 5 is 01-08-2016
+
+===============================================================
+Testing Adding Number Of Days true statements will be printed
+
+27-07-2016 + -5 is 22-07-2016
+
+===============================================================
+Testing Adding Number Of Days true statements will be printed
+
+29-12-2049 + 5 is 
+***ERROR	out_of_range- The Result is Out Of Range
+
+===============================================================
+Testing Adding Number Of Days true statements will be printed
+
+29-12-2049 + -5 is 24-12-2049
+
+=============================================================
+Testing Difference in days true statements will be printed
+
+06-08-1995 - 27-07-2016 is 7661
+27-07-2016 - 06-08-1995 is 7661
+
+============================================================
+Testing LeapYear Function true statements will be printed
+
+03-01-2013 is not a leap year
+
+============================================================
+Testing LeapYear Function true statements will be printed
+
+27-07-2012 is a leap year
+
+==========================================================
+Testing Cast Operators true statements will be printed
+
+27-07-2016 as   WeekNumber  is 30
+27-07-2016 as   Month       is 7
+27-07-2016 as   WeekDay     is 3
+
+=======================================================================
+Checking Relational Operators All The True Statements will be printed
+
+27-07-2012 is != to 03-01-2013
+27-07-2012 is < than 03-01-2013
+27-07-2012 is <= than 03-01-2013
+
+=======================================================================
+Checking Relational Operators All The True Statements will be printed
+
+27-07-2012 is != to 26-05-2012
+27-07-2012 is > than 26-05-2012
+27-07-2012 is >= than 26-05-2012
+
+=======================================================================
+Checking Relational Operators All The True Statements will be printed
+
+27-07-2012 is == to 27-07-2012
+27-07-2012 is <= than 27-07-2012
+27-07-2012 is >= than 27-07-2012
+
+=======================================================================
+Checking Set And Get Format All The True Statements will be printed
+
+Initially the default format dd-mmm-yy is set  using setFormat
+The output in this format is 06-Mar-16
+Set the format in dd-mm-yyyy . Using getFormat to get the format and set the format received by it 
+The output in this format is 06-03-2016
+Set and Get Format Are Working Correctly
+
+================================================================
+Checking  Ostream Function Printing in all available formats
+
+27-07-2016 in format 	NULL	NULL	NULL    		is	    	July
+27-07-2016 in format 	NULL	NULL	yy    		is	    	July-16
+27-07-2016 in format 	NULL	NULL	yyyy    		is	    	July-2016
+27-07-2016 in format 	NULL	m	NULL    		is	    	7
+27-07-2016 in format 	NULL	m	yy    		is	    	7-16
+27-07-2016 in format 	NULL	m	yyyy    		is	    	7-2016
+27-07-2016 in format 	NULL	mm	NULL    		is	    	07
+27-07-2016 in format 	NULL	mm	yy    		is	    	07-16
+27-07-2016 in format 	NULL	mm	yyyy    		is	    	07-2016
+27-07-2016 in format 	NULL	mmm	NULL    		is	    	Jul
+27-07-2016 in format 	NULL	mmm	yy    		is	    	Jul-16
+27-07-2016 in format 	NULL	mmm	yyyy    		is	    	Jul-2016
+27-07-2016 in format 	d	NULL	NULL    		is	    	27-July
+27-07-2016 in format 	d	NULL	yy    		is	    	27-July-16
+27-07-2016 in format 	d	NULL	yyyy    		is	    	27-July-2016
+27-07-2016 in format 	d	m	NULL    		is	    	27-7
+27-07-2016 in format 	d	m	yy    		is	    	27-7-16
+27-07-2016 in format 	d	m	yyyy    		is	    	27-7-2016
+27-07-2016 in format 	d	mm	NULL    		is	    	27-07
+27-07-2016 in format 	d	mm	yy    		is	    	27-07-16
+27-07-2016 in format 	d	mm	yyyy    		is	    	27-07-2016
+27-07-2016 in format 	d	mmm	NULL    		is	    	27-Jul
+27-07-2016 in format 	d	mmm	yy    		is	    	27-Jul-16
+27-07-2016 in format 	d	mmm	yyyy    		is	    	27-Jul-2016
+27-07-2016 in format 	dd	NULL	NULL    		is	    	27-July
+27-07-2016 in format 	dd	NULL	yy    		is	    	27-July-16
+27-07-2016 in format 	dd	NULL	yyyy    		is	    	27-July-2016
+27-07-2016 in format 	dd	m	NULL    		is	    	27-7
+27-07-2016 in format 	dd	m	yy    		is	    	27-7-16
+27-07-2016 in format 	dd	m	yyyy    		is	    	27-7-2016
+27-07-2016 in format 	dd	mm	NULL    		is	    	27-07
+27-07-2016 in format 	dd	mm	yy    		is	    	27-07-16
+27-07-2016 in format 	dd	mm	yyyy    		is	    	27-07-2016
+27-07-2016 in format 	dd	mmm	NULL    		is	    	27-Jul
+27-07-2016 in format 	dd	mmm	yy    		is	    	27-Jul-16
+27-07-2016 in format 	dd	mmm	yyyy    		is	    	27-Jul-2016
+
+====================================================================================
+Istream calls Date constructor so it is already tested so checking for only 1 input
+Checking  Istream Function with input format dd-mm-yyyy
+
+Originally date is 06-03-2016
+After taking in 27-03-2016 through stringstream date is 27-03-2016
+====================================================================================
